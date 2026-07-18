@@ -33,21 +33,24 @@ The dashboard transforms raw HR data into actionable workforce intelligence by a
 This project demonstrates how structured data preparation and interactive dashboard design can convert raw HR data into meaningful business intelligence. Beyond presenting workforce metrics, the dashboard supports strategic decision-making by identifying trends in employee turnover, recruitment effectiveness, compensation, engagement, and retention.
 The solution was designed as a fully automated reporting system. Through Power Query, users can replace the source dataset and refresh the workbook to update all transformations, KPIs, PivotTables, charts, and dashboard visuals without manual intervention. This approach makes the dashboard suitable not only as a learning project but also as a scalable template for organizational HR reporting.
 ## Challenge Info
+
   o Organizer: DataVerse Africa
+  
   o Theme : HR Analaytics Jully 2026 Challenge
+  
   o Duration : 
 
 
 ## 🔗 For Paternship and Collaboration
 
-Contact me :
+Contact me  :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koko-mukuru-yves-98621a14a) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokomukuruy@gmail.com)
 
 ---
 <p align="center">
-  <i>"Turning Raw Data into actionable insight, for better decision marking."</i>
+  <i>"Turning Raw Data into actionable insight for better decision marking."</i>
 
 </p>
 
