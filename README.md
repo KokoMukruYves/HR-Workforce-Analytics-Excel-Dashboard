@@ -3,7 +3,108 @@ An interactive HR Analytics Dashboard built in Microsoft Excel using Power Query
 
 <img width="1067" height="562" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/347b0e87-22c2-48aa-8604-30a8804f40f3" />
 
+# 📊 HR Workforce Analytics Dashboard in Excel
 
+An end-to-end **HR Analytics Dashboard** built in **Microsoft Excel** using **Power Query, PivotTables, PivotCharts, KPI Cards, and Interactive Slicers** to transform raw workforce data into automated reports, actionable business insights, and strategic HR recommendations.
+
+---
+
+# 📖 Project Overview
+
+This project was developed as part of the **DataVerse Africa – July 2026 HR Analytics Challenge**.
+
+The objective was to transform a raw HR dataset into an interactive decision-support system capable of delivering evidence-based workforce insights. The project demonstrates how Microsoft Excel can be used as a Business Intelligence (BI) tool by integrating automated data preparation, interactive dashboards, and executive-level storytelling.
+
+The solution combines **Power Query**, **Excel formulas**, **PivotTables**, **PivotCharts**, and **interactive slicers** to create a dynamic reporting environment. Once a new dataset replaces the original source, users simply click **Refresh All**, and every transformation, KPI, PivotTable, and visualization updates automatically.
+
+---
+
+# 🎯 Project Objectives
+
+- Clean and standardize raw HR data using Power Query.
+- Build a fully automated and refreshable reporting workflow.
+- Design an interactive Excel dashboard for workforce monitoring.
+- Analyze key HR metrics and workforce trends.
+- Generate actionable business insights and strategic HR recommendations.
+- Demonstrate Excel's capability as a Business Intelligence solution.
+
+---
+
+# 📂 Dataset Description
+
+The analysis is based on an employee dataset containing **311 employee records** across **39 variables**, covering the period **2006–2019**.
+
+The dataset contains information on:
+
+- 👤 Employee demographics (Employee ID, Gender, Date of Birth)
+- 💼 Employment history (Hire Date, Termination Date, Department, Manager)
+- 💰 Compensation (Salary)
+- 📢 Recruitment sources
+- 😊 Employee engagement and satisfaction
+- ⭐ Performance evaluations
+- 📅 Attendance and absence records
+
+The raw dataset contained multiple data quality issues that were addressed before analysis to ensure accurate reporting and reliable business insights.
+
+---
+
+# 🔄 Data Preparation (ELT Process)
+
+The project followed a structured **Extract – Load – Transform (ELT)** workflow.
+
+## 1️⃣ Extract
+
+- Imported the HR dataset from a single Excel worksheet.
+
+## 2️⃣ Load
+
+- Loaded the dataset into Excel.
+- Processed and automated all transformations using **Power Query**.
+
+## 3️⃣ Transform
+
+The following data quality improvements were implemented:
+
+- ✅ Recalculated employee age using the termination date or **31 December 2019** for active employees.
+- ✅ Recalculated employee tenure using the same reference dates.
+- ✅ Completed missing **ManagerID** values using **XLOOKUP**.
+- ✅ Standardized text capitalization across categorical fields.
+- ✅ Corrected inconsistent employment status values.
+- ✅ Removed termination reasons assigned to active employees.
+- ✅ Removed invalid employee records.
+- ✅ Created analytical fields including:
+  - Age Group
+  - Termination Year
+  - Tenure (Years)
+
+After validating the transformed dataset, an interactive dashboard was developed using KPI cards, PivotTables, PivotCharts, and slicers.
+
+---
+
+# 📈 Executive Workforce Summary
+
+| KPI | Value |
+|------|------:|
+| Total Employees | **310** |
+| Active Employees | **207** |
+| Terminated Employees | **103** |
+| Turnover Rate | **33.2%** |
+| Average Age | **39.6 Years** |
+| Average Tenure | **5.4 Years** |
+| Average Engagement | **4.1 / 5** |
+| Average Satisfaction | **3.9 / 5** |
+| Gender Ratio (M:F) | **1.30** |
+| Average Salary | **$69,033.80** |
+
+### 💡 Executive Insight
+
+The organization employs **310 individuals**, of whom **207 remain active**, while **103 employees have separated** from the company, resulting in an overall turnover rate of **33.2%**.
+
+Employee engagement remains relatively strong (**4.1/5**), although overall satisfaction is slightly lower (**3.9/5**), suggesting opportunities to further enhance the employee experience. With an average employee tenure of **5.4 years** and an average workforce age of **39.6 years**, the dashboard provides valuable insights into workforce stability, retention, compensation, and organizational performance.
+
+These KPIs serve as a high-level summary for HR leaders, enabling rapid assessment of workforce health and supporting strategic decision-making.
+
+---
 ## 📌 Executive Summary: Key Insights & Strategic Recommendations
 
 The dashboard transforms raw HR data into actionable workforce intelligence by answering eight strategic business questions. The table below summarizes the key findings, business insights, and recommended actions that HR leaders can use to support evidence-based decision-making.
