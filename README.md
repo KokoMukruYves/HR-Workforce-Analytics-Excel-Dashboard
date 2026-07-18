@@ -1,6 +1,12 @@
 # HR-Workforce-Analytics-Excel-Dashboard
 An interactive HR Analytics Dashboard built in Microsoft Excel using Power Query, PivotTables, PivotCharts, KPI cards, and dynamic slicers to transform raw workforce data into actionable business insights and strategic HR recommendations.
+
+<img width="1067" height="562" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/347b0e87-22c2-48aa-8604-30a8804f40f3" />
+
+
 ## 📌 Executive Summary: Key Insights & Strategic Recommendations
+
+The dashboard transforms raw HR data into actionable workforce intelligence by answering eight strategic business questions. The table below summarizes the key findings, business insights, and recommended actions that HR leaders can use to support evidence-based decision-making.
 
 | Business Question | Key Findings | Business Insight | Strategic Recommendation |
 |-------------------|--------------|------------------|--------------------------|
