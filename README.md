@@ -134,9 +134,9 @@ The solution was designed as a fully automated reporting system. Through Power Q
 
   o Organizer: DataVerse Africa
   
-  o Theme : HR Analaytics Jully 2026 Challenge
+  o Theme : HR Analaytics July 2026 Challenge
   
-  o Duration : from 11 to 15 Jully, 2026
+  o Duration : from 11 to 15 July, 2026
 
 
 ## 🔗 Connect with me
