@@ -56,9 +56,10 @@ The project followed a structured **Extract – Load – Transform (ELT)** workf
 ## 2️⃣ Load
 
 - Loaded the dataset into Excel.
-- Processed and automated all transformations using **Power Query**.
 
 ## 3️⃣ Transform
+
+Processed and automated all transformations using **Power Query**.
 
 The following data quality improvements were implemented:
 
