@@ -91,7 +91,7 @@ After validating the transformed dataset, an interactive dashboard was developed
 | Average Tenure | **5.4 Years** |
 | Average Engagement | **4.1 / 5** |
 | Average Satisfaction | **3.9 / 5** |
-| Gender Ratio (M:F) | **1.30** |
+| Gender Ratio (F:M) | **1.30** |
 | Average Salary | **$69,033.80** |
 
 ### 💡 Executive Insight
