@@ -2,10 +2,7 @@
 An interactive HR Analytics Dashboard built in Microsoft Excel using Power Query, PivotTables, PivotCharts, KPI cards, and dynamic slicers to transform raw workforce data into actionable business insights and strategic HR recommendations.
 
 <img width="1067" height="562" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/347b0e87-22c2-48aa-8604-30a8804f40f3" />
-
-# 📊 HR Workforce Analytics Dashboard in Excel
-
-An end-to-end **HR Analytics Dashboard** built in **Microsoft Excel** using **Power Query, PivotTables, PivotCharts, KPI Cards, and Interactive Slicers** to transform raw workforce data into automated reports, actionable business insights, and strategic HR recommendations.
+ 
 
 ---
 
