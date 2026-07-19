@@ -136,7 +136,7 @@ The solution was designed as a fully automated reporting system. Through Power Q
   
   o Theme : HR Analaytics Jully 2026 Challenge
   
-  o Duration : 
+  o Duration : from 11 to 15 Jully, 2026
 
 
 ## 🔗 Connect with me
@@ -148,7 +148,7 @@ For questions or collaborations, feel free to reach out!
 
 ---
 <p align="center">
-  <i>"Turning Raw Data into actionable insight for better decision marking."</i>
+  <i>"​Turning raw data into actionable insights for better decision-making."</i>
 
 </p>
 
